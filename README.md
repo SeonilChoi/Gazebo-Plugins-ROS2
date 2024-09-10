@@ -4,4 +4,4 @@
 
 ## joint_position_publisher_plugin
 
-## joint_position_initializer_plugin
+## joint_state_initializer_plugin
