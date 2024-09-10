@@ -3,3 +3,5 @@
 ## joint_velocity_controller_plugin
 
 ## joint_position_publisher_plugin
+
+## joint_position_initializer_plugin
