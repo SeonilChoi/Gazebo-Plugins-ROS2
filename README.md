@@ -15,6 +15,11 @@ export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/gazebo_plugins/plugins
 ```
 
 ## joint_velocity_controller_plugin
+```
+<plugin name="joint_velocity_controller_plugin" filename="libjoint_velocity_controller_plugin.so">
+  <joint_name>joint_name</joint_name>
+</plugin>
+```
 
 ## joint_position_publisher_plugin
 
