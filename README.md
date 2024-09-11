@@ -17,7 +17,13 @@ export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/gazebo_plugins/plugins
 ---
 
 ## set_joint_position_plugin
-
+```
+<plugin name="set_joint_position_plugin" filename="libset_joint_position_plugin.so">
+  <joint_name1>joint1**</joint_name1>
+  <joint_name2>joint2</joint_name2>
+  <namespace>**namespace**</namespace>
+</plugin>
+```
 
 ## set_joint_velocity_plugin
 ```
