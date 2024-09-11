@@ -22,7 +22,7 @@ export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/gazebo_plugins/plugins
   <joint_name1>joint1</joint_name1>
   <joint_name2>joint2</joint_name2>
   ...
-  <namespace>**namespace**</namespace>
+  <namespace>namespace</namespace>
 </plugin>
 ```
 
