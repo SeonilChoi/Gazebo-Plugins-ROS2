@@ -5,8 +5,7 @@ This work presents custom plugins of Gazebo for ROS2.
 ### build
 
 ```
-cd plugin_path
-mkdir build
+git clone 
 cd build
 cmake ..
 make
