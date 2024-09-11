@@ -1,6 +1,0 @@
-/home/csi/gazebo_plugins/set_joint_position/build/CMakeFiles/uninstall.dir
-/home/csi/gazebo_plugins/set_joint_position/build/CMakeFiles/set_joint_position_plugin_uninstall.dir
-/home/csi/gazebo_plugins/set_joint_position/build/CMakeFiles/set_joint_position_plugin.dir
-/home/csi/gazebo_plugins/set_joint_position/build/CMakeFiles/test.dir
-/home/csi/gazebo_plugins/set_joint_position/build/CMakeFiles/edit_cache.dir
-/home/csi/gazebo_plugins/set_joint_position/build/CMakeFiles/rebuild_cache.dir
