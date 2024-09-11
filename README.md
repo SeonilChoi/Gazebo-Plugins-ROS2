@@ -14,6 +14,11 @@ make
 export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/gazebo_plugins/plugins
 ```
 
+---
+
+## set_joint_position_plugin
+
+
 ## set_joint_velocity_plugin
 ```
 <plugin name="set_joint_velocity_plugin" filename="libset_joint_velocity_plugin.so">
@@ -22,5 +27,3 @@ export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/gazebo_plugins/plugins
 ```
 
 ## joint_state_publisher_plugin
-
-## set_joint_position_plugin
