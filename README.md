@@ -21,6 +21,6 @@ export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/gazebo_plugins/plugins
 </plugin>
 ```
 
-## joint_position_publisher_plugin
+## joint_state_publisher_plugin
 
 ## set_joint_position_plugin
