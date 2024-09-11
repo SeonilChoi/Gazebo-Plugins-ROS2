@@ -11,7 +11,7 @@ make
 ```
 ### ~/.bashrc
 ```
-export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/gazebo_plugins/plugins
+export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/plugins
 ```
 
 ---
