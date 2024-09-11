@@ -38,4 +38,12 @@ export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/plugins
 </plugin>
 ```
 
-## joint_state_publisher_plugin
+## custom_joint_state_publisher_plugin
+```
+<plugin name="custom_joint_state_publisher_plugin" filename="libcustom_joint_state_publisher_plugin.so">
+    <joint_name1>joint1</joint_name1>
+    <joint_name2>joint2</joint_name2>
+    ...
+    <namespace>namespace</namespace>
+</plugin>
+```
