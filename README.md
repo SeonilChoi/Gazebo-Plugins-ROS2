@@ -1,6 +1,6 @@
-# Gazebo-Plugins-ROS2-Foxy
+# Gazebo-Plugins-ROS2
 
-This work presents custom plugins of Gazebo for ROS2 Foxy.
+This work presents custom plugins of Gazebo for ROS2.
 
 ### build
 
