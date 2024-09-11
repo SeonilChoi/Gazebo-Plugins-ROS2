@@ -2,13 +2,15 @@
 
 This work presents custom plugins of Gazebo for ROS2 Foxy.
 
-
+### build
 
 ```
 cd plugin_path/build
 cmake ..
 make
-
+```
+### ~/.bashrc
+```
 export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/gazebo_plugins/plugins
 ```
 
