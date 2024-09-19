@@ -6,7 +6,6 @@ This work presents custom plugins of Gazebo for ROS2.
 ```
 source /opt/ros/foxy/setup.bash
 ```
-
 ```
 git clone https://github.com/SeonilChoi/Gazebo-Plugins-ROS2.git
 mkdir plugin_path/build plugins
@@ -14,6 +13,7 @@ cd plugin_path/build
 cmake ..
 make
 ```
+
 ### ~/.bashrc
 ```
 export GAZEBO_PLUGIN_PATH=$GAZEBO_PLUGIN_PATH:~/plugins
