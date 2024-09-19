@@ -3,6 +3,9 @@
 This work presents custom plugins of Gazebo for ROS2.
 
 ### build
+```
+source /opt/ros/destro/setup.bash
+```
 
 ```
 git clone https://github.com/SeonilChoi/Gazebo-Plugins-ROS2.git
