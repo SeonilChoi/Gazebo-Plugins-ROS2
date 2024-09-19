@@ -4,7 +4,7 @@ This work presents custom plugins of Gazebo for ROS2.
 
 ### build
 ```
-source /opt/ros/distro/setup.bash
+source /opt/ros/foxy/setup.bash
 ```
 
 ```
